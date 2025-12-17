@@ -1,1 +1,24 @@
+{
+  "title": "CKA Practice: Sidecar Container",
+  "description": "Add a sidecar container to an existing Kubernetes Pod",
+  "difficulty": "intermediate",
+  "time": "20 minutes",
+  "details": {
+    "intro": {
+      "text": "step1.md"
+    },
+    "steps": [
+      {
+        "title": "Add Sidecar",
+        "text": "step2.md"
+      }
+    ],
+    "finish": {
+      "text": "Good job! Scenario completed."
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
 
